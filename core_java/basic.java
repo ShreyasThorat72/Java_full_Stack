@@ -1,6 +1,6 @@
 class basic 
 {
     public static void main(String[] args) {
-        System.out.println("basic things");
+        System.out.println("basic thingss");
     }
 }
