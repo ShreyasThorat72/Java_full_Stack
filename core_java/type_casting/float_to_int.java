@@ -6,4 +6,4 @@ class float_to_int
         int a=(int)sc;
         System.out.println(a);
     }
-}
+} 
