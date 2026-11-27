@@ -4,7 +4,7 @@ class charnum
     {
         char s='s';
         char f='f';
-        String str=("s+f");
+        String str=("chars are:"+s+f);
         System.out.println(str);
 
     }
