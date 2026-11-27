@@ -7,8 +7,8 @@ class operations
 
         System.out.println(a+b);
         System.out.println(a-b);
-        System.out.print(a*b);
-        System.out.println("float:"+a/b);
+        System.out.println(a*b);
+        System.out.println("float %2f:"+a/b);
         System.out.println(a%b);
     }
 }
