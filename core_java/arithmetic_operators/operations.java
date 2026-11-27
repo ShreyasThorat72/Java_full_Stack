@@ -7,7 +7,7 @@ class operations
         
         System.out.println(a+b);
         System.out.println(a-b);
-        System.out.println(a*b);
+        System.out.println(a*b*2);
         System.out.println((float)+a/b);
         System.out.println(a%b);
         System.out.print(Integer.toBinaryString(a%b));
